@@ -11,7 +11,8 @@
 
 **2. Apply the formula for the sum of an arithmetic series:**
 
-* S_n = \frac{n}{2} \cdot (2a_1 + (n - 1)d)
+* $S_n = \dfrac{n}{2} \cdot (2a_1 + (n - 1)d)$
+
 **3. Substitute the values into the formula:**
 
 * S₂₀ = 20/2 ⋅ (2 ⋅ 5 + (20 - 1) ⋅ 3)
