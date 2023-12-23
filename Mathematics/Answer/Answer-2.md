@@ -3,7 +3,7 @@
 
 
 
-#### **Find the zeroes of the quadratic polynomial $x^2+ 7x + 10$, and verify the relationship between the zeroes and the coefficients.**
+### **Find the zeroes of the quadratic polynomial $x^2+ 7x + 10$, and verify the relationship between the zeroes and the coefficients.**
 
 Steps to solve:
 **1. Use the quadratic formula:**
@@ -30,7 +30,7 @@ According to Vieta's formulas, the sum of the zeroes of a quadratic equation is 
 
 Therefore, the relationship between the zeroes and the coefficients is verified.
 
-#### **Find the roots of the quadratic equation $3x^2 - 2 \sqrt{6}x+ 2 = 0$**
+### **Find the roots of the quadratic equation $3x^2 - 2 \sqrt{6}x+ 2 = 0$**
 
       
   1. **Identify the coefficients:**
