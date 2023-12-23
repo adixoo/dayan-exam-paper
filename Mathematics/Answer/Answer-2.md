@@ -48,5 +48,30 @@
     
     Therefore, the relationship between the zeroes and the coefficients is verified.
 
+2. **Find the roots of the quadratic equation $3x^2 - 2 \sqrt{6}x+ 2 = 0$**
+
+      
+      1. **Identify the coefficients:**
+         - $a = 3$
+         - $b = -2\sqrt{6}$
+         - $c = 2$
+      
+      2. **Apply the quadratic formula:**
+         $$x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+      
+      3. **Substitute the coefficients:**
+         $$x = \dfrac{+2\sqrt{6} \pm \sqrt{(-2\sqrt{6})^2 - 4 \cdot 3 \cdot 2}}{2 \cdot 3}$$
+      
+      4. **Simplify the expression under the radical:**
+         $$x = \dfrac{2\sqrt{6} \pm \sqrt{24 - 24}}{6}$$
+         $$x = \dfrac{2\sqrt{6} \pm \sqrt{0}}{6}$$
+      
+      5. **Reduce the expression:**
+         $$x = \dfrac{2\sqrt{6}}{6}$$
+      
+      6. **Simplify the fraction:**
+         $$x = \dfrac{\sqrt{6}}{3}$$
+      
+      **Therefore, the quadratic equation $3x^2 - 2 \sqrt{6}x+ 2 = 0$ has a single root, which is $x = \dfrac{\sqrt{6}}{3}$.**
 
 
