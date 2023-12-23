@@ -30,6 +30,9 @@ According to Vieta's formulas, the sum of the zeroes of a quadratic equation is 
 
 Therefore, the relationship between the zeroes and the coefficients is verified.
 
+---
+
+
 ### **Find the roots of the quadratic equation $3x^2 - 2 \sqrt{6}x+ 2 = 0$**
 
       
